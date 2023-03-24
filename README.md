@@ -1,5 +1,5 @@
 # justText_clone
-# Láy trang web wiki
+# Lấy trang web wiki
 # Kết quả đạt được gần 90% so với bản chính
 my justext:
 ![alt text](https://github.com/Kaioken3000/justText_clone/blob/master/my_justext.PNG?raw=true)
